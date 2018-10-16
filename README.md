@@ -6,7 +6,7 @@ This repository contains 3 evaluation datasets that can be used for evaluating F
 
 The folder contains the datasets WS353 and WS277. WS353 is a complete Finnish translation of the WS353 dataset originally published by Finkelstein et al (https://dl.acm.org/citation.cfm?id=503110). WS277 is a shortened version of WS353 where word pairs with non-obvious translations are removed.
 
-The dataset is formatted as follows: English word1, English word2, average sematic similarity by human evaluators on scale 0 - 10, Finnish word 1, Finnish word2. On WS353, rows that were removed from WS277 also contain a "!" mark. 
+The dataset is formatted as follows: English word1, English word2, average semantic similarity by human evaluators on scale 0 - 10, Finnish word 1, Finnish word2. On WS353, rows that were removed in WS277 also contain a "!" mark. 
 
 ### Analogies
 
